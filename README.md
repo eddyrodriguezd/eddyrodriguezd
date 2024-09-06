@@ -1,4 +1,4 @@
-👋 Hi there! I'm a passionate and driven Software Developer and Architect with a strong focus on Java and AWS technologies. Over 4 years of experience have led me to work across diverse sectors, including government, financial, and retail industries, where I've delivered innovative solutions that make a lasting impact.
+👋 Hi there! I'm a passionate and driven Software Developer and Architect with a strong focus on Java and AWS technologies. Over 5 years of experience have led me to work across diverse sectors, including government, financial, and retail industries, where I've delivered innovative solutions that make a lasting impact.
 
 💼 As an AWS Certified Developer and Architect, I bring extensive expertise in architecting robust cloud solutions and deploying scalable infrastructure. Moreover, I have a proven track record of leadership, successfully guiding teams to collaboratively build essential products.
 
